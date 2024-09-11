@@ -530,7 +530,7 @@ section .faqbox{
     }
 
     .footer-text{
-        font-size: 20px;
+        font-size: 15px;
         font-weight: 500;
     }
 
@@ -556,11 +556,11 @@ section .faqbox{
     }   
 
     .questions{
-        font-size: 22px;
+        font-size: 15px;
     }
 
     .footer .footer-item{
-        font-size: 6px;
+        font-size: 10px;
 
     }
 
