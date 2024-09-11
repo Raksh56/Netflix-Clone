@@ -524,14 +524,19 @@ section .faqbox{
     
     }
 
+    .footer{
+        grid-template-columns: 1fr 1fr 1fr;
+    
+    }
+
     .faqbox svg{
         width: 12px;
         height: 12px;
     }
 
     .footer-text{
-        font-size: 15px;
-        font-weight: 500;
+        font-size: 12px;
+        font-weight: 300;
     }
 
     .footer-buttons{
