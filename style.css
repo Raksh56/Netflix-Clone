@@ -510,7 +510,7 @@ section .faqbox{
     }
 
     .faq h2 {
-        font-size: 30px;
+        font-size: 20px;
     }
 
     section .faqbox{
@@ -544,8 +544,8 @@ section .faqbox{
     }
 
     .footer-buttons input{
-        font-size: 20px;
-        padding: 7px 10px 7px 15px;
+        font-size: 14px;
+        padding: 5px 10px 5px 10px;
     }
 
     .footer-buttons .started-btn{
