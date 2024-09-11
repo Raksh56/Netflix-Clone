@@ -420,43 +420,43 @@ section .faqbox{
  
 
     .lang-btn, .red-signin-btn  {
-        font-size: 10px;
+        font-size: 20px;
         padding: 6px 8px;
     }
 
     .hero> :nth-child(1) {
-        font-size: 25px;
+        font-size: 35px;
 
     }
 
     .hero> :nth-child(2) {
-        font-size: 14px;
+        font-size: 24px;
 
     }
     
     .hero> :nth-child(3) {
-        font-size: 10px;
+        font-size: 20px;
 
     }
     
     .main input {
-        font-size: 10px;
+        font-size: 20px;
         padding: 9px 50px 9px 15px;
     }
 
     .started-btn {
-        font-size: 10px;
+        font-size: 20px;
         padding: 10px 8px;
     
     }
 
     .first div :nth-child(1) {
         margin-top: 5vh;
-        font-size: 20px;   
+        font-size: 30px;   
     }
 
     .first div :nth-child(2) {
-        font-size: 10px;
+        font-size: 20px;
         font-weight: 300;
     
     }
@@ -482,23 +482,23 @@ section .faqbox{
     }
 
     .second div :nth-child(1) {
-        font-size: 20px;
+        font-size: 30px;
         margin-top: 40px;
     
     }
 
     .second div :nth-child(2) {
-        font-size: 10px;
+        font-size: 20px;
         font-weight: 300;
     
     }
 
     .third div :nth-child(1) {
-        font-size: 20px;
+        font-size: 30px;
     }
 
     .third div :nth-child(2) {
-        font-size: 10px;
+        font-size: 20px;
         font-weight: 300;
     }
 
@@ -510,7 +510,7 @@ section .faqbox{
     }
 
     .faq h2 {
-        font-size: 20px;
+        font-size: 30px;
     }
 
     section .faqbox{
@@ -519,7 +519,7 @@ section .faqbox{
         margin: 10px auto;
         /* border: 2px solid white; */
         height: 30px;
-        font-size: 10px;
+        font-size: 20px;
         font-weight: 400;
     
     }
@@ -530,7 +530,7 @@ section .faqbox{
     }
 
     .footer-text{
-        font-size: 10px;
+        font-size: 20px;
         font-weight: 500;
     }
 
@@ -544,19 +544,19 @@ section .faqbox{
     }
 
     .footer-buttons input{
-        font-size: 10px;
+        font-size: 20px;
         padding: 7px 10px 7px 15px;
     }
 
     .footer-buttons .started-btn{
-        font-size: 10px;
+        font-size: 20px;
         text-align: center;
         padding: 8px;
         align-items: center;
     }   
 
     .questions{
-        font-size: 12px;
+        font-size: 22px;
     }
 
     .footer .footer-item{
